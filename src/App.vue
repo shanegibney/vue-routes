@@ -4,15 +4,18 @@
     <h1>I am the root component</h1>
     <img src="./assets/logo.png">
     <router-view/>
+    <Footer/>
   </div>
 </template>
 
 <script>
 import Navbar from '@/components/Navbar'
+import Footer from '@/components/Footer'
 export default {
   name: 'App',
   components: {
-    Navbar
+    Navbar,
+    Footer
   }
 }
 </script>
