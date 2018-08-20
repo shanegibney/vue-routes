@@ -1,6 +1,6 @@
 [gh-pages](https://shanegibney.github.io/vue-routes/)
 
-(Article on this topic on my blog)(http://www.shanegibney.com/shanegibney/vue-routes/)
+(Article on this topic on my blog)[http://www.shanegibney.com/shanegibney/vue-routes/]
 
 # routing
 
