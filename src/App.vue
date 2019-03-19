@@ -2,7 +2,6 @@
   <div id="app">
     <Navbar/>
     <h1>I am the root component</h1>
-    <img src="./assets/logo.png">
     <router-view/>
     <Footer/>
   </div>

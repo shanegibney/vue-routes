@@ -4,7 +4,7 @@
 
 # routing
 
-> routing
+This project using routing and binds different classes to different components.
 
 ## Build Setup
 
